@@ -1,2 +1,2 @@
 # Heat Sink Diffusion
-Differential equation solved using the finite difference method.
+Partial differential equation solved using the finite difference method.
